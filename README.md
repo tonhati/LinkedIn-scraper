@@ -1,2 +1,2 @@
 # LinkedIn-scraper
-Script to scrape jobs
+dsScript to scrape jobs =D
